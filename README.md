@@ -1,6 +1,6 @@
 # Interactive Panda Form
 
-Este projeto consiste em uma ilustração de um panda segurando um formulário HTML. Criamos esta ilustração do panda do zero com CSS.
+Este projeto consiste em uma ilustração de um panda segurando um formulário HTML. Criei esta ilustração do panda do zero com CSS.
 
 ## Funcionalidade
 
